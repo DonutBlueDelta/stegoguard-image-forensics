@@ -1,1 +1,2 @@
 Owen
+tested clean and suspicious image scans and added a new detection keyword to the scanner. Modified the demo image to trigger the new rule and verified that the workflow works correctly by showcasing a failed and passed after resetting the scan mode
